@@ -2,7 +2,7 @@
 import sentencesData from '../data/sentences.json';
 
 export function getRandomSentenceWords(count: number): string {
-    const sentences = sentencesData.easySentences;
+    const sentences = sentencesData.sentences;
 
     if (!Array.isArray(sentences) || sentences.length === 0) {
         throw new Error('Words data is missing or invalid.');

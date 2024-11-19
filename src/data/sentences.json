@@ -1,6 +1,14 @@
 {
-    "easySentences": [
-        "The sun set over the ocean, painting the sky in a beautiful array of colors. The sun rose slowly over the horizon, casting a warm glow on the sleepy town below. The sun sets over the horizon, painting the sky in shades of pink and orange.",
-        "After the storm passed, the sun came out and painted the sky in vibrant shades of orange and pink. The cat chased the squirrel up the tall oak tree. The cat chased the squirrel up the tree."
+    "sentences": [
+        "The quick brown fox jumps over the lazy dog. This sentence is famous because it uses every letter in the alphabet. Can you type it quickly without making a mistake? Remember, practice makes perfect",
+        "A bright moon lit up the night sky, casting shadows on the empty streets. The wind howled softly, carrying the scent of rain. It was a peaceful moment, but the storm was approaching fast",
+        "Typing is a skill that combines speed and accuracy. To improve, focus on building muscle memory and maintaining a steady rhythm. Avoid looking at the keyboard, and soon your fingers will know exactly where to go",
+        "Roses are red, violets are blue, typing is fun, and so are you! Keep practicing and you will see how much faster you can go in just a short amount of time. Speed and accuracy will soon be yours",
+        "Imagine a world where technology stops working for a day. No internet, no phones, and no computers. Would we survive, or have we become too dependent on modern devices? Think about it as you type this passage.",
+        "The intricate design of the watch was mesmerizing. Every gear turned in perfect harmony, keeping time with remarkable precision. It was a masterpiece of engineering, a symbol of humanity's ability to create beauty through complexity.",
+        "Typing fast requires practice, just like learning to ride a bike. Start slowly and focus on getting every word right. Over time, you will gain confidence and your speed will naturally increase.",
+        "Deep in the forest, a tiny stream trickled through the rocks, its sound calming and rhythmic. Birds chirped overhead, and sunlight filtered through the trees. Nature`s beauty is a perfect reminder to pause and appreciate the world around us.",
+        "Programming languages are tools that allow us to communicate with computers. Each has its strengths and weaknesses, but they all share a common goal: to turn human ideas into instructions that machines can understand and execute efficiently.",
+        "On a distant planet, under a purple sky, alien creatures roamed freely. They communicated through colors, their emotions glowing brightly for all to see. Would humans adapt to such a world, or remain strangers forever?"
     ]
 }
