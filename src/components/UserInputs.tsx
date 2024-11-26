@@ -37,8 +37,8 @@ const Character = ({ actual, expected }: { actual: string, expected: string }) =
     return (
         <span 
             className={cn({
-                'text-red-500': !isCorrect && !isWhiteSpace,    //
-                'text-yellow-500': isCorrect && !isWhiteSpace,  //
+                'text-stone-600/90': !isCorrect && !isWhiteSpace,    //
+                'text-[#E64833]': isCorrect && !isWhiteSpace,  //
                 'bg-red-500/50': !isCorrect && isWhiteSpace     //
             })}
         >
